@@ -9,13 +9,18 @@ SimpleJDBCPostgres: This sample Java code demonstrates how to link the PostgreSQ
 
 SQL: This program handles the execution of SQL queries on our PostgreSQL database, providing the backbone for our e-commerce platform.
 
-Java_GUI: Our graphical user interface components include:
-
+<b>Java_GUI</b>: Our graphical user interface components include:
+<br>
 MainFrame: The main menu for users to access various functions.
+<br>
 Register: User registration interface.
+<br>
 Login: User log-in interface.
+<br>
 AddAddress: A feature to add a delivery address.
+<br>
 SearchFrame: Product search functionality.
+<br>
 SaveToCartFrame: Adding products to the shopping cart.
 SetUpOrderFrame: Viewing the shopping cart and creating orders.
 AddressFrame: Selecting a delivery address to finalize shopping.
